@@ -1,0 +1,16 @@
+
+body{
+    margin: auto;
+}
+nav{
+    height:40px;
+    background-color: black;
+}
+ul{text-decoration: none;
+}
+li{float: left;}
+a{
+    float: left;
+    color: wheat;
+    text-align: center;
+}
